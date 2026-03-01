@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dom6": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
